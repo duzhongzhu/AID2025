@@ -4,3 +4,18 @@ Allow LAN：是否允许局域网代理
 网络图标：显示网卡信息
 Log Level：Clash 核心日志等级
 dsadsadsa
+
+
+ddddddd
+
+dddddddd
+
+ddddddd
+
+ddddddd
+
+
+ddddddd
+
+
+ddddddd
